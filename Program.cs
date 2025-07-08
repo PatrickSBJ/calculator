@@ -6,7 +6,7 @@
         {
             while (true)
             {
-                Console.WriteLine("Welcome to the Calculator!");
+                Console.WriteLine("Welcome to the Calculator!"); 
 
                 Console.WriteLine("Enter your first number:");
                 float firstNumber = float.Parse(Console.ReadLine().Trim());
